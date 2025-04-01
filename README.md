@@ -13,6 +13,10 @@ Kubernetes is widely adopted for its ability to handle modern cloud-native appli
 - **Resource Optimization**: Efficiently allocates CPU and memory resources.
 
 ## Kubernetes Architecture
+
+![Kubernetes-Architecture-Diagram](https://github.com/user-attachments/assets/9a1ccf3d-c1d5-473f-aef7-07830598f0d7)
+
+
 Kubernetes follows a master-worker architecture to ensure scalability and resilience.
 ### 1. Master Node (Control Plane)
 - **API Server**: Serves as the front end of the cluster and processes REST requests.
